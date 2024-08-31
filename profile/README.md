@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://humaan.ai">
-   <img src="https://github.com/humaan-ai/.github/blob/main/profile/humaan.png" alt="Logo">
+   <img src="https://github.com/humaan-ai/.github/blob/main/profile/humaan-ai.png" alt="Logo">
   </a>
   <h3 align="center">Humaan AI</h3>
   <p align="center">
